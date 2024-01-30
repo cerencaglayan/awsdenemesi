@@ -1,0 +1,13 @@
+package com.example.awsdenemesi;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class AwsdenemesiApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(AwsdenemesiApplication.class, args);
+	}
+
+}
